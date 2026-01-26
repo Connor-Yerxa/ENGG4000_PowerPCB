@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LAA108STR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "LAA108STR" (!) = "", "SOP254P952X457-8N", "Small Outline Packages", "849-LAA108STR", "https://www.mouser.co.uk/ProductDetail/IXYS-Integrated-Circuits/LAA108STR?qs=OpMkDkHXivM0qwe7BHe4OQ%3D%3D", "Solid State SPST-NO (1 Form A) x 2 8-SMD (0.300", 7.62mm)", "https://www.ixysic.com/home/pdfs.nsf/www/LAA108.pdf/$file/LAA108.pdf", "4.572 mm"
+END_PART
+
+END.

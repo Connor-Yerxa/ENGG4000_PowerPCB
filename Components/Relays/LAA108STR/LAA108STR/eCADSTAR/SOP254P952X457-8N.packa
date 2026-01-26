@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LAA108STR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-02-23-06:21:10)
+    (mountForm default
+        (footprintRef "SOP254P952X457-8N")
+        (spec "System")
+    )
+)

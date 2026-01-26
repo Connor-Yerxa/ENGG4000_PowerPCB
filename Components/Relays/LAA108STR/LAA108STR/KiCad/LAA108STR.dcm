@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LAA108STR
+D Solid State SPST-NO (1 Form A) x 2 8-SMD (0.300", 7.62mm)
+K
+F https://www.ixysic.com/home/pdfs.nsf/www/LAA108.pdf/$file/LAA108.pdf
+$ENDCMP
+#
+#End Doc Library

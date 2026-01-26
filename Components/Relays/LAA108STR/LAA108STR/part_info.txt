@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=LAA108STR
+PartCategory=Relay or Contactor
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2023-04-06 01:16:57
+Downloaded=2026-01-12 19:33:25
+3D=Y
