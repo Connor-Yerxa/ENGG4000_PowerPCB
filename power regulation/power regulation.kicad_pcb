@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "TLS Handheld System PCB")
+		(date "2026-01-28")
+		(rev "1")
+		(company "C-Therm Technologies")
+		(comment 1 "Designers - Connor Yerxa, Faaiz Ali, Marc-Andre Bourgoin")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(4 "In1.Cu" power "GND")
@@ -22731,6 +22738,18 @@
 			)
 		)
 	)
+	(gr_text "C-Therm TLS Handheld System PCB"
+		(at 181.5 140 0)
+		(layer "F.SilkS")
+		(uuid "f11c6d39-b8f4-4c1e-9736-08654fb04bbf")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "B4\nRTD_CS\n\n\n\n\nB5\n\nGND\nEXCIT1\n\nMOSI2\nMISO2\nSCK2\n\nB3"
 		(at 169 110 0)
 		(layer "B.SilkS")
@@ -22805,6 +22824,18 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "C-Therm TLS Handheld System PCB :)"
+		(at 177.5 140 0)
+		(layer "B.SilkS")
+		(uuid "4e9aa9da-41ba-47d1-9ff2-bd3de4bbaa4f")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+			)
+			(justify right bottom mirror)
 		)
 	)
 	(gr_text "3.3V\nGND\nDISPL_CS\nDISPL_RST\nDISPL_DC\nDISPL_MOSI\nDISPL_SCK\nDISPL_LED\n\nDISPL_SCK\n\n\nTOUCH_MOSI"
