@@ -1,4 +1,4 @@
-27233167623588270
+27234937767178969
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71826,6 +71826,13 @@ BAT54HT1G
 0
 2
 2
+Library
+CUI_MSD-3-A
+
+
+0
+13
+13
 Library
 LAA108STR
 8-Pin Surface Mount_2023
