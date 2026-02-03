@@ -4651,56 +4651,6 @@
 		)
 		(uuid "ff9690f1-a2a8-4767-a8ac-c5f88b967a53")
 	)
-	(label "8V"
-		(at 265.43 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "63a0e438-4aa6-4e9f-95fd-41bc49218dd1")
-	)
-	(label "3.3V"
-		(at 214.63 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6ebc656c-630b-40cb-98c8-d34f3187a4a9")
-	)
-	(label "GND"
-		(at 13.97 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6f05dbec-a3a2-497e-8025-96a079c3045f")
-	)
-	(label "Pin"
-		(at 21.59 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "97c44f2c-4881-4de1-8eb0-d4e384c10830")
-	)
-	(label "5V"
-		(at 111.76 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e27f7f3-73ff-4cad-9a5f-0b5f47f37de6")
-	)
 	(symbol
 		(lib_id "Device:R")
 		(at 43.18 138.43 0)
