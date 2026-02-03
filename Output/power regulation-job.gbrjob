@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.1"
+      "Version": "9.0.7"
     },
-    "CreationDate": "2026-02-02T15:19:22-04:00"
+    "CreationDate": "2026-02-03T01:52:57-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -48,12 +48,12 @@
     },
     {
       "Path": "power regulation-GND.gbr",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "power regulation-PIN.gbr",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
