@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "9.0.7"
     },
-    "CreationDate": "2026-02-03T11:04:19-04:00"
+    "CreationDate": "2026-02-04T14:53:38-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "power regulation",
-      "GUID": "706f7765-7220-4726-9567-756c6174696f",
+      "Name": "TLS_Handheld_PCB",
+      "GUID": "544c535f-4861-46e6-9468-656c645f5043",
       "Revision": "1"
     },
     "Size": {
@@ -42,57 +42,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "power regulation-F_Cu.gbr",
+      "Path": "TLS_Handheld_PCB-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-GND.gbr",
+      "Path": "TLS_Handheld_PCB-GND.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-PIN.gbr",
+      "Path": "TLS_Handheld_PCB-PIN.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-B_Cu.gbr",
+      "Path": "TLS_Handheld_PCB-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-F_Paste.gbr",
+      "Path": "TLS_Handheld_PCB-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-B_Paste.gbr",
+      "Path": "TLS_Handheld_PCB-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-F_Silkscreen.gbr",
+      "Path": "TLS_Handheld_PCB-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-B_Silkscreen.gbr",
+      "Path": "TLS_Handheld_PCB-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "power regulation-F_Mask.gbr",
+      "Path": "TLS_Handheld_PCB-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "power regulation-B_Mask.gbr",
+      "Path": "TLS_Handheld_PCB-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "power regulation-Edge_Cuts.gbr",
+      "Path": "TLS_Handheld_PCB-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
