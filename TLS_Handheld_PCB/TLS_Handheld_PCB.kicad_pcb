@@ -772,7 +772,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/2x19_Female_header/PPPC192LFBN-RC.STEP"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/2x19_Female_header/PPPC192LFBN-RC.STEP"
 			(offset
 				(xyz 1.25 -23 -1.5)
 			)
@@ -1492,6 +1492,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -2261,7 +2272,7 @@
 			(uuid "fffbe3fe-6fbe-4087-869f-937e99a3f709")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/MOSFETs/2N7002NXAKR/TO-236AB_SOT23_NEX.step"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/MOSFETs/2N7002NXAKR/TO-236AB_SOT23_NEX.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2696,6 +2707,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/inductors/3_3mH/ul_IHLP2020CZER3R3M01/IHLP2020CZ.step"
+			(offset
+				(xyz -0.75 6 -2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "CL31B475KBHNFNE:CAPC3216X180N"
 		(layer "F.Cu")
@@ -2870,6 +2892,17 @@
 			(uuid "4eea381a-93bd-45ff-8555-3c7e94ffcb82")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -3234,7 +3267,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -3382,6 +3415,17 @@
 			(uuid "87ff70e1-5d35-44b3-8e64-bd45adce3e53")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -3761,6 +3805,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Buttons/1825967-2/1825967-2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "CRCW12061M05FKEA:RESC3116X60N"
 		(layer "F.Cu")
@@ -3784,7 +3839,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -3932,6 +3987,17 @@
 			(uuid "55d3f0a0-dbc8-48f2-b18c-298d14660e86")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 		(layer "F.Cu")
@@ -4239,6 +4305,17 @@
 			(uuid "027e7685-23a2-46cf-88b0-0110a7ea5af5")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints00:CAP_NTJ_76B_9.5T_NIP"
 		(layer "F.Cu")
@@ -4610,6 +4687,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Caps/100uf/KTJ250B107M76BFT00/KTJ250B107M76BFT00.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -5171,6 +5259,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
@@ -5743,6 +5842,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Buttons/1825967-2/1825967-2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Library:BAT54HT1G"
 		(layer "F.Cu")
@@ -6151,7 +6261,7 @@
 			(uuid "535117fd-4029-4b4b-b9b0-0ee2c7572ff4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/Doides/BAT54HT1G/CR_SOD-323_2L_ONS.step"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Doides/BAT54HT1G/CR_SOD-323_2L_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7062,6 +7172,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "My_PCB_Library:SW_1825967-2"
 		(layer "F.Cu")
@@ -7306,6 +7427,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Buttons/1825967-2/1825967-2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "CL31B105KBHNNNE:CAPC3216X180N"
 		(layer "F.Cu")
@@ -7329,7 +7461,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -7479,6 +7611,17 @@
 			(uuid "f44db8bd-cce8-4fe9-afdd-01768f66d7da")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "CL31B104KBCNNNC:CAPC3216X100N"
 		(layer "F.Cu")
@@ -7502,7 +7645,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -7652,6 +7795,17 @@
 			(uuid "91440dd7-5f70-4c10-b210-af6f71767d54")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "CRCW120660K4FKEAHP:RESC3116X65N"
 		(layer "F.Cu")
@@ -7675,7 +7829,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -7823,6 +7977,17 @@
 			(uuid "e6ca838c-344d-4bf8-836a-97665d558006")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Library:LAA108STR"
 		(layer "F.Cu")
@@ -8086,7 +8251,7 @@
 			(uuid "260f6259-f552-4381-8dc3-ce2c8e9d58a8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/Relays/LAA108STR/LAA108STR/3D/LAA108STR.stp"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Relays/LAA108STR/LAA108STR/3D/LAA108STR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8529,7 +8694,7 @@
 			(uuid "63d29f2a-54e9-49bf-a93d-7a51f7ed3e11")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_gitRepos/ENGG4000_PowerPCB/Components/RTD/MAX31865ATP_T_other/MAX31865ATP_T.step"
+		(model "C:/Users/cbyer/Documents/_gitRepos/ENGG4000_PCB/Components/RTD/MAX31865ATP_T_other/MAX31865ATP_T.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9104,6 +9269,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Caps/100uf/KTJ250B107M76BFT00/KTJ250B107M76BFT00.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "CL31B104KBCNNNC:CAPC3216X100N"
 		(layer "F.Cu")
@@ -9127,7 +9303,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -9277,6 +9453,17 @@
 			(uuid "dbda976e-0962-4b12-8e21-63614895f352")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 		(layer "F.Cu")
@@ -9435,7 +9622,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -9583,6 +9770,17 @@
 			(uuid "7cfd56a6-6048-4426-9151-baad90c6bf31")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "CL31B102KBCNNNC:CAPC3216X100N"
 		(layer "F.Cu")
@@ -9607,7 +9805,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -9757,6 +9955,17 @@
 			(uuid "e14b0a48-20aa-496e-af39-140bacc6a8a1")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Library:CUI_MSD-3-A"
 		(layer "F.Cu")
@@ -10261,6 +10470,17 @@
 			(uuid "3517ef81-d8f2-4efd-a54c-cae0a6a641b5")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/SD_Card/MSD_3_A/MSD-3-A.step"
+			(offset
+				(xyz -7.5 -7 -0.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
@@ -10688,6 +10908,17 @@
 		)
 		(embedded_fonts no)
 		(model "/Users/faaiz24/Desktop/PCBwork/1825967-2 CAD Model/1825967-2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Buttons/1825967-2/1825967-2.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11996,6 +12227,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Caps/100uf/KTJ250B107M76BFT00/KTJ250B107M76BFT00.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -12549,6 +12791,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/PPTC141LFBN-RC.STEP"
+			(hide yes)
 			(offset
 				(xyz 0 -16.5 0)
 			)
@@ -12557,6 +12800,17 @@
 			)
 			(rotate
 				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/1x14_Female_header/PPTC141LFBN-RC--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 -16.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -13281,6 +13535,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/inductors/3_3mH/ul_IHLP2020CZER3R3M01/IHLP2020CZ.step"
+			(offset
+				(xyz -0.75 6 -2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
 		(layer "F.Cu")
@@ -13699,7 +13964,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -13858,6 +14123,17 @@
 			(uuid "ba866f9e-2c2b-43a2-8a14-6fe9bc313dba")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -14285,6 +14561,17 @@
 		)
 		(embedded_fonts no)
 		(model "/Users/faaiz24/Desktop/PCBwork/1825967-2 CAD Model/1825967-2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Buttons/1825967-2/1825967-2.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14886,6 +15173,17 @@
 			(uuid "ac2e79c0-f968-4c4a-820f-cdb5ea0bdde7")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Power Regulators/LT8640SEV_PBF/LT8640SEV_PBF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "CL31B475KBHNFNE:CAPC3216X180N"
 		(layer "F.Cu")
@@ -15060,6 +15358,17 @@
 			(uuid "f9899786-0570-4277-924e-ee6beec9e105")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:05-08-1699_ADI"
 		(layer "F.Cu")
@@ -15429,6 +15738,17 @@
 			(uuid "99aa471e-dfc6-4336-b175-2021a344fc3e")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Power Regulators/ul_LT8619EDD-TRPBF/05-08-1699_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -15887,7 +16207,7 @@
 			(uuid "9964ffab-ec57-4ecf-9f1a-5fb828f318a3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/Molex/Female/430451000/430451000.stp"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Molex/Female/430451000/430451000.stp"
 			(offset
 				(xyz -6 -4 3.5)
 			)
@@ -15922,7 +16242,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -16072,6 +16392,17 @@
 			(uuid "2e9bd4dc-73ba-4786-900e-636915e4f1d8")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "CL31B475KBHNFNE:CAPC3216X180N"
 		(layer "F.Cu")
@@ -16246,13 +16577,24 @@
 			(uuid "980e11d9-3cfc-4dee-b5db-70e28ffe3694")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "RCS12061M00JNEA:RESC3116X65N"
 		(layer "F.Cu")
 		(uuid "b98cfc20-5d8a-460a-9bfc-ae6ccdc9d75a")
 		(at 136.9595 114.0561 -90)
 		(property "Reference" "R12"
-			(at -3.0561 -0.0405 180)
+			(at -3.0561 -0.0405 0)
 			(layer "F.SilkS")
 			(uuid "2d081690-7c3a-4148-904d-ba76d21f4ecf")
 			(effects
@@ -16269,7 +16611,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -16417,6 +16759,17 @@
 			(uuid "55552364-e410-4584-824f-37d2a7b47521")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -16633,7 +16986,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -16783,6 +17136,17 @@
 			(uuid "ae38b00e-f456-4431-810c-04c5dfe2d134")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -17444,7 +17808,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -17594,6 +17958,17 @@
 			(uuid "2d48e3d2-a83e-47f7-abde-b7e3eeacbb1c")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -18244,7 +18619,7 @@
 			(uuid "8db6184d-9814-4695-a8aa-eaf5895633be")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_gitRepos/ENGG4000_PowerPCB/Components/ThermocoupleModule/MAX31856MUD_T/MAX31856MUD_T.step"
+		(model "C:/Users/cbyer/Documents/_gitRepos/ENGG4000_PCB/Components/ThermocoupleModule/MAX31856MUD_T/MAX31856MUD_T.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18428,6 +18803,17 @@
 			(uuid "b1481c54-d92b-4df8-9f37-7c086879644d")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "My_PCB_Library:SW_1825967-2"
 		(layer "F.Cu")
@@ -18662,6 +19048,17 @@
 		)
 		(embedded_fonts no)
 		(model "/Users/faaiz24/Desktop/PCBwork/1825967-2 CAD Model/1825967-2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Buttons/1825967-2/1825967-2.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19101,7 +19498,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -19251,6 +19648,17 @@
 			(uuid "90cdb3ba-75e5-4be5-956d-0a9b1cff1704")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -19560,6 +19968,17 @@
 			(uuid "8db09286-c9ed-4917-834d-46875d33fe16")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -19679,7 +20098,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -19829,6 +20248,17 @@
 			(uuid "a0889612-6192-42a1-8688-10f2da173fbc")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Library:2N7002NXAKR"
 		(layer "F.Cu")
@@ -20270,7 +20700,7 @@
 			(uuid "f3fe33b6-9b15-4819-9faf-7fd29a99afb7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/MOSFETs/2N7002NXAKR/TO-236AB_SOT23_NEX.step"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/MOSFETs/2N7002NXAKR/TO-236AB_SOT23_NEX.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20439,7 +20869,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -20587,6 +21017,17 @@
 			(uuid "c9e25583-71e0-4ea6-bb78-74ef40cbb1bd")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -21531,6 +21972,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/inductors/10mH/ASPI-0630LR-100M-T15/ASPI-0630LR-100M-T15.step"
+			(offset
+				(xyz 0 0 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Library:BAT54HT1G"
 		(layer "F.Cu")
@@ -21939,7 +22391,7 @@
 			(uuid "f2792516-be2d-4ed9-bfaf-44248d6d1760")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/Doides/BAT54HT1G/CR_SOD-323_2L_ONS.step"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Doides/BAT54HT1G/CR_SOD-323_2L_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22676,7 +23128,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PowerPCB/Components/2x19_Female_header/PPPC192LFBN-RC.STEP"
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/2x19_Female_header/PPPC192LFBN-RC.STEP"
 			(offset
 				(xyz 1.25 -23 -1.5)
 			)
@@ -23277,6 +23729,17 @@
 			(uuid "1ca6ae6f-ab4e-4aee-90af-9f701dab23db")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/cbyer/Documents/_GitRepos/ENGG4000_PCB/Components/Power Regulators/LT8640SEV_PBF/LT8640SEV_PBF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(gr_rect
 		(start 209.5 95)
@@ -35709,7 +36172,7 @@
 				(xy 223.9845 90.3745) (xy 223.917461 90.354815) (xy 223.871706 90.302011) (xy 223.8605 90.2505)
 				(xy 223.8605 89.717018) (xy 223.880185 89.649979) (xy 223.881398 89.648127) (xy 223.909394 89.606229)
 				(xy 223.969737 89.460547) (xy 224.0005 89.305892) (xy 224.0005 89.148208) (xy 224.0005 89.148205)
-				(xy 224.000499 89.148203) (xy 223.969738 88.99356) (xy 223.969737 88.993553) (xy 223.929726 88.896957)
+				(xy 224.000499 89.148203) (xy 223.969738 88.99356) (xy 223.969737 88.993553) (xy 223.969735 88.993548)
 				(xy 223.909397 88.847877) (xy 223.90939 88.847864) (xy 223.821789 88.716761) (xy 223.821786 88.716757)
 				(xy 223.710292 88.605263) (xy 223.710288 88.60526) (xy 223.579185 88.517659) (xy 223.579172 88.517652)
 				(xy 223.433501 88.457314) (xy 223.433489 88.457311) (xy 223.278845 88.42655) (xy 223.278842 88.42655)
